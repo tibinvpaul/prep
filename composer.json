@@ -1,5 +1,5 @@
 {
-    "name": "prep/package",
+    "name": "tibinpaul/prep",
     "description": "Learning laravel package development.",
     "type": "library",
     "license": "MIT",
