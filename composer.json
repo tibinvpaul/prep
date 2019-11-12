@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tibin\\Prep": "src/"
+            "Tibin\\Prep\\": "src/"
         }
     },
     "extra": {
